@@ -1,1 +1,2 @@
 "# portfolio"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/shoyebreza/portfolio.gitgit push -u origin main
+site is live at https://shoyebreza.github.io/portfolio/
